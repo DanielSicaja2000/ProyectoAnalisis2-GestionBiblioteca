@@ -11,10 +11,14 @@ Nuestro objetivo con LIBROHUB es proporcionar una herramienta eficiente y fácil
 
 ### Progreso 
 
-Hasta el momento, hemos trabajado en los siguientes aspectos:  
 - **Diseño de la arquitectura del sistema**: Se han creado diagramas UML detallados para representar la estructura y las interacciones del sistema.  
 - **Análisis de requisitos**: Definimos las funcionalidades clave para cumplir con las necesidades de los usuarios.  
 - **Planeación inicial**: Establecimos un cronograma para el desarrollo y la implementación.  
+
+### Capturas
+![Texto alternativo](https://i.imgur.com/r0AyK1g.png)
+![Texto alternativo](https://i.imgur.com/kQJBWHr.png)
+
 
 ## Documentación  
 
